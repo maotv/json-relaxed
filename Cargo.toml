@@ -1,0 +1,10 @@
+[package]
+name = "json-relaxed"
+version = "0.1.0"
+authors = ["Matthias Oelmann (octopus) <mao@viergleicheins.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = "1"
